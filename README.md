@@ -3,4 +3,4 @@ All quizzes for the course "AI For Everyone" on Cousera
 
 Score 100%
 
-Update weekly
+All Completed!
